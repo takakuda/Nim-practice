@@ -1,5 +1,5 @@
 # こめんと
 echo "名前は?"
-var name: string = readLine(stdin)
+var name = readLine(stdin)
 echo "やあ、", name, "!"
 
